@@ -1,3 +1,5 @@
+
+// Write the skeleton of C prgram
 #include <stdio.h>
 int main()
 {
