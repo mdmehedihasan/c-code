@@ -1,1 +1,4 @@
-printf("%d %d %d %d\n", ++a, a++, a, ++a);
+for (int j = 1; j <= i; j++)
+        {
+            printf("*");
+        }
