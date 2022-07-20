@@ -1,5 +1,12 @@
 /*
-write a program to print the following out put
+write a program to print the following output
+*
+line break
+***
+line break
+*****
+line break
+*******
 */
 #include <stdio.h>
 int main()
