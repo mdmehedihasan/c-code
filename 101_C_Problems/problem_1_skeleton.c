@@ -1,5 +1,5 @@
 
-// Write the skeleton of C prgram
+// Write the skeleton of C prgram for absolute basic
 #include <stdio.h>
 int main()
 {
