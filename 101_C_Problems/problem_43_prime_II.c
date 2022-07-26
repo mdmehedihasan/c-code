@@ -5,10 +5,11 @@ example- 2 3 5 7 11 13 17 19
 #include <stdio.h>
 int main()
 {
-    int i, j;
+    int i, j, num;
     int count = 0;
+    scanf("%d", &num);
 
-    for (i = 2; i <= 2; i++)
+    for (i = 2; i <= num; i++)
     {
         for (j = 2; j < i; j++)
         {
